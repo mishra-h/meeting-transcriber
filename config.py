@@ -18,7 +18,7 @@ WHISPER_MODEL = "large-v3"  # Options: tiny, base, small, medium, large, large-v
 DIARIZATION_MODEL = "pyannote/speaker-diarization-3.1"
 
 # Hugging Face token (replace with your actual token)
-HUGGING_FACE_TOKEN = "<ENTER-YOUR-TOKEN-HERE>"
+HUGGING_FACE_TOKEN = "<ENTER_YOUR_TOKEN_HERE>"
 
 # Audio processing settings
 SUPPORTED_FORMATS = ('.wav', '.mp3', '.m4a', '.flac', '.ogg', '.aac')
