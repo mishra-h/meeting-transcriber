@@ -1,3 +1,7 @@
+"""
+Run this script to test if the token issued 
+By Huggging Face is working as expected
+"""
 # test_token.py
 from config import HUGGING_FACE_TOKEN
 from huggingface_hub import HfApi
